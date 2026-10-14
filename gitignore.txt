@@ -1,0 +1,12 @@
+# IDE
+.idea/
+*.iml
+.vscode/
+
+# Build output
+target/
+node_modules/
+dist/
+
+# Secrets
+.env
